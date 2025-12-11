@@ -15,11 +15,7 @@ Requirements
 Python 3.6+
 tkinter (included with Python)
 
-Installation
-bashgit clone https://github.com/YOUR_USERNAME/lottery-draw-system.git
-cd lottery-draw-system
-Usage
-bashpython lottery_app.py
+
 How It Works
 
 Add participants by filling in the form
